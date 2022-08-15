@@ -29,8 +29,9 @@ reducerFunction(state, action)
 
 ---
 
-Districturing (ARRAY, OBJECT)
-Spread Operator ...
+### Districturing (ARRAY, OBJECT)
+
+### Spread Operator ...
 
 ---
 
