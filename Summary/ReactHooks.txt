@@ -7,4 +7,11 @@ React hooks can only used inside the root element (the functional component)
 Districturing [ ***, *** ]
 Spread Operator ...
 
-useEffect => render after or for every component render cycle
+useEffect => render after or for every component render cycle.
+
+useReducer => its a way to manage the related state
+useReducer(reducerFunction, initialState) => it return an array of two elements.
+
+cosnt [ currentState, dispatchFn ] = useReducer(reducerFunction, initialState)
+
+reducerFunction(state, action)
