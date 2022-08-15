@@ -1,0 +1,10 @@
+React Hooks => Its a special functions that can only be used in functional component;
+
+useState => Its a special hook that manage state in the functional component;
+
+React hooks can only used inside the root element (the functional component) 
+
+Districturing [ ***, *** ]
+Spread Operator ...
+
+useEffect => render after or for every component render cycle
