@@ -48,11 +48,11 @@ reducerFunction(state, action)
 
 ---
 
-1 - Create The Auth Folder
-2 - Create The Context Using a Function Called => CreateContext(**VALUE**)
-3 - Wrap Your Components With Your Context Provider And Define The 'value' Prop
-4 - Define Your Logic
-5 - Use The useContext Prop to access the values in the context
+1 - Create The Auth Folder <br />
+2 - Create The Context Using a Function Called => CreateContext(**VALUE**) <br />
+3 - Wrap Your Components With Your Context Provider And Define The 'value' Prop <br />
+4 - Define Your Logic <br />
+5 - Use The useContext Prop to access the values in the context <br />
 
 ---
 
@@ -62,8 +62,8 @@ reducerFunction(state, action)
 
 **Routes** instade of **Switch** <br />
 
-**Route** has a new prop called element that has the rendering element **As A JSX**\
+**Route** has a new prop called element that has the rendering element **As A JSX** <br />
 
-### **NavLink** in the className prop you will pass a function with one param and this param has a isActive value (use the ternary operator to define the active class name)
+**NavLink** in the className prop you will pass a function with one param and this param has a isActive value (use the ternary operator to define the active class name) <br />
 
 ---
