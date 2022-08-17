@@ -1,3 +1,12 @@
+## React
+
+---
+
+1 - To build a website using Vanilla JS you will follow the imperative approach
+2 - To build a website using React JS you will follow the declarative approach (**The Best Approach**)
+
+---
+
 ## React Hooks
 
 ---
@@ -44,5 +53,13 @@ reducerFunction(state, action)
 3 - Wrap Your Components With Your Context Provider And Define The 'value' Prop
 4 - Define Your Logic
 5 - Use The useContext Prop to access the values in the context
+
+---
+
+## React Router V6
+
+---
+
+<Routes /> instade of <Switch />
 
 ---
