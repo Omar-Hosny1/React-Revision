@@ -60,7 +60,7 @@ reducerFunction(state, action)
 
 ---
 
-**Routes** instade of **Switch** \
+**Routes** instade of **Switch** <br />
 
 **Route** has a new prop called element that has the rendering element **As A JSX**\
 
