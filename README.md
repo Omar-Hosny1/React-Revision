@@ -44,13 +44,6 @@ reducerFunction(state, action)
 
 ### Arrow Function () => {}
 
-### Arrow Function VS Regular Function
-
-1 - Regular Function (Maybe has name or anonymous) VS Arrow Function are always anonymous. <br />
-2 - You can call the Regular Function (With Name) before initialize it but Arrow Function Not. (Hoisting). <br />
-3 - 'this' keyword in arrow function refers to the window object. <br />
-4 - syntactically Diffrences. <br />
-
 ---
 
 ## Context Api
@@ -78,5 +71,16 @@ reducerFunction(state, action)
 **Navigate** instade of **Redirect** <br />
 
 **useNavigate** instade of **useHistory** navigate("/your-route") || navigate("/your-route", {replace : true}) <br />
+
+---
+
+---
+
+## Arrow Function VS Regular Function
+
+1 - Regular Function (Maybe has name or anonymous) VS Arrow Function are always anonymous. <br />
+2 - You can call the Regular Function (With Name) before initialize it but Arrow Function Not. (Hoisting). <br />
+3 - 'this' keyword in arrow function refers to the window object. <br />
+4 - syntactically Diffrences. <br />
 
 ---
