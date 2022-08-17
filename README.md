@@ -61,5 +61,7 @@ reducerFunction(state, action)
 ---
 
 **Routes** instade of **Switch**
+**Route** has a new prop called element that has the rendering element **As A JSX**
+**NavLink** in the className prop you will pass a function with one param and this param has a isActive value (use the ternary operator to define the active class name)
 
 ---
