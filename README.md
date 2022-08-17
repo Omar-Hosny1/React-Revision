@@ -60,6 +60,6 @@ reducerFunction(state, action)
 
 ---
 
-**_<Routes />_** instade of <Switch />
+**Routes** instade of **Switch**
 
 ---
