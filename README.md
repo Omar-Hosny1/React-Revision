@@ -56,7 +56,7 @@ reducerFunction(state, action)
 
 ---
 
-## React Router V6
+## React Router V6 Instade Of React Router V5
 
 ---
 
@@ -65,5 +65,9 @@ reducerFunction(state, action)
 **Route** has a new prop called element that has the rendering element **As A JSX** <br />
 
 **NavLink** in the className prop you will pass a function with one param and this param has a isActive value (use the ternary operator to define the active class name) <br />
+
+**Navigate** instade of **Redirect** <br />
+
+**useNavigate** instade of **useHistory** navigate("/your-route") || navigate("/your-route", {replace : true}) <br />
 
 ---
