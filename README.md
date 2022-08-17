@@ -48,7 +48,7 @@ reducerFunction(state, action)
 
 1 - Regular Function (Maybe has name or anonymous) VS Arrow Function are always anonymous. <br />
 2 - You can call the Regular Function (With Name) before initialize it but Arrow Function Not. (Hoisting). <br />
-3 - 'this' keyword in arrow function refers to the window object.
+3 - 'this' keyword in arrow function refers to the window object. <br />
 4 - syntactically Diffrences. <br />
 
 ---
