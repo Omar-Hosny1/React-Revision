@@ -84,3 +84,41 @@ reducerFunction(state, action)
 4 - syntactically Diffrences. <br />
 
 ---
+
+---
+
+## What is react feautures ?
+
+1 - JSX (Write HTML inside JS) <br />
+2 - React components this is easy way to build a websites from scratch. <br />
+3 - Speedy Performance. <br />
+4 - Virtual DOM <br />
+
+---
+
+---
+
+## What is state in react ?
+
+1 - State is an object that holds some data <br />
+
+---
+
+---
+
+## What are props in react ?
+
+1 - It allows us yo pass arguments or data to components <br />
+2 - We can pass props to the components like the tag attributes <br />
+
+---
+
+---
+
+## What is react redux ?
+
+1 - Redux is a library to manage the wide state. <br />
+2 - It can only have one store. <br />
+3 - It uses the concept of reducer. <br />
+
+---
